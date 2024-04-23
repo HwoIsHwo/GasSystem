@@ -7,7 +7,7 @@ function [N_out] = MATLAB_function_model_new_disch(t, par, U)
     t_ion = par(3); 
     t_pump = 1.776;
     N_p0 = 0;
-    N_v0 = 5.3e18;
+    N_v0 = 5.7e18;
     N_w0 = par(4);
 
     %Входной поток
