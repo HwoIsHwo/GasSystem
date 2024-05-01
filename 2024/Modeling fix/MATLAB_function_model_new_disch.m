@@ -1,7 +1,6 @@
 function [N_out] = MATLAB_function_model_new_disch(t, par, U)
 
     %параметры модели и начальные условия
-    t_p = 0.037;
     t_retention = par(1);
     t_release = par(2);
     t_ion = par(3); 
@@ -9,6 +8,7 @@ function [N_out] = MATLAB_function_model_new_disch(t, par, U)
     N_p0 = 0;
     N_v0 = 5.7e18;
     N_w0 = par(4);
+    t_p = par(5);
 
     %Входной поток
    G = U(:, 1);

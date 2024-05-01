@@ -1,0 +1,10 @@
+1. Зависимость t_p от концентрации частиц в плазме (степени ионизации)
+2. Несколько t_p для каждого из вида рекомбинации (также мб несколько t_ion)
+3. Зависимость t_pump от объема плазмы
+
+Ссылки:
+http://rateli.ru/books/item/f00/s00/z0000000/st034.shtml
+https://aco.ifmo.ru/el_books/basics_optics/glava-1/glava-1-2-s.html
+http://technomag.edu.ru/doc/167577.html
+https://ru.wikipedia.org/wiki/Критерий_Лоусона#:~:text=Критерий%20Лоусона%3A%20график.,удержание%20—%20баланс%20тепла%20будет%20положительным.
+http://www.myshared.ru/slide/616468/
