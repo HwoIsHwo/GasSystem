@@ -1,0 +1,3 @@
+function fclose(~)
+
+mexxfile('fclose');

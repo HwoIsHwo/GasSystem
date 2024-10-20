@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetDataWorkspace>
+  <version>2.26.0.20</version>
+  <WSversion>10</WSversion>
+  <File>
+    <Name>C:\Users\levsi\Desktop\GasSystem\2024\Идеи\fusion.jpg</Name>
+    <Width>625</Width>
+    <Height>632</Height>
+  </File>
+  <Line>
+    <Caption>Линия #1</Caption>
+    <LineColor>36,36,36</LineColor>
+    <BkColor>254,254,254</BkColor>
+    <PtColor>220,70,220</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">1309,5071,1417,4504,1570,3757,1768,3046,1993,2371,2272,1705,2533,1246,2686,1066,2785,1021,2893,1048</Points>
+    <Points MF="9">3127,1264,3379,1516,3649,1768,3919,1993,4090,2110,4378,2245,4675,2290,4918,2335,5179,2389</Points>
+  </Line>
+  <CurrentLine>0</CurrentLine>
+  <Xmin MF="9">778,5071,1.000000e+000</Xmin>
+  <Xmax MF="9">5269,5071,1.000000e+004</Xmax>
+  <Ymin MF="9">778,5071,1.000000e-005</Ymin>
+  <Ymax MF="9">778,94,1.000000e+002</Ymax>
+  <XScale>logarithmic</XScale>
+  <YScale>logarithmic</YScale>
+  <Position>302,306</Position>
+  <Zoom>
+    <Scale>100.0</Scale>
+  </Zoom>
+  <Digitize>
+    <IgnorePixels>1</IgnorePixels>
+    <LineIDMethod>2</LineIDMethod>
+  </Digitize>
+  <AutoTrace>
+    <TraceDistance>8</TraceDistance>
+    <SmoothLines>1</SmoothLines>
+  </AutoTrace>
+  <DigitizeArea>
+    <LineOrArea>0</LineOrArea>
+    <RotateAngle>0.000000</RotateAngle>
+    <dx>8.000000</dx>
+  </DigitizeArea>
+  <GridSettings>
+    <ShowGrid>0</ShowGrid>
+    <AreaType>0</AreaType>
+    <dx>15.000000</dx>
+    <dy>15.000000</dy>
+  </GridSettings>
+</GetDataWorkspace>
