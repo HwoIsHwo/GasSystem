@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetDataWorkspace>
+  <version>2.26.0.20</version>
+  <WSversion>10</WSversion>
+  <File>
+    <Name>C:\Users\levsi\Desktop\Работа\GasSystem\2024\Часть 2\ModelBlocks\Материалы\Графики\Ионизация протонами.jpg</Name>
+    <Width>368</Width>
+    <Height>458</Height>
+  </File>
+  <Line>
+    <Caption>Линия #1</Caption>
+    <LineColor>118,118,118</LineColor>
+    <BkColor>248,248,248</BkColor>
+    <PtColor>220,70,220</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">2920,643,2308,832,1768,1057,1426,1255,1219,1444,1039,1669,940,1876,832,2146,751,2443,688,2875</Points>
+    <Points MF="9">661,3289,643,3505</Points>
+  </Line>
+  <CurrentLine>0</CurrentLine>
+  <Xmin MF="9">643,3496,0.000000e+000</Xmin>
+  <Xmax MF="9">2911,3460,1.500000e+001</Xmax>
+  <Ymin MF="9">643,3496,1.000000e-020</Ymin>
+  <Ymax MF="9">643,373,1.000000e-016</Ymax>
+  <XScale>linear</XScale>
+  <YScale>logarithmic</YScale>
+  <Position>579,-23</Position>
+  <Zoom>
+    <Scale>150.0</Scale>
+  </Zoom>
+  <Digitize>
+    <IgnorePixels>1</IgnorePixels>
+    <LineIDMethod>2</LineIDMethod>
+  </Digitize>
+  <AutoTrace>
+    <TraceDistance>8</TraceDistance>
+    <SmoothLines>1</SmoothLines>
+  </AutoTrace>
+  <DigitizeArea>
+    <LineOrArea>0</LineOrArea>
+    <RotateAngle>0.000000</RotateAngle>
+    <dx>8.000000</dx>
+  </DigitizeArea>
+  <GridSettings>
+    <ShowGrid>0</ShowGrid>
+    <AreaType>0</AreaType>
+    <dx>15.000000</dx>
+    <dy>15.000000</dy>
+  </GridSettings>
+</GetDataWorkspace>
