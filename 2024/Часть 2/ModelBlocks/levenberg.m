@@ -2,8 +2,8 @@ function [] = levenberg(Function, data, par)
 
 global par0;
 
-h = par(1); % шаг определения производной
-u = par(2); %величина прибавки
+h = par{1}; % шаг определения производной
+u = par{2}; %величина прибавки
 
 out_exp = data;
 
@@ -15,7 +15,7 @@ J = zeros(length(r), length(par0)); %якобиан r(данные) строк, 
 
 for i=1:length(par0) %цикл по всем параметрам
     p_old = par0(i);
-    step = h * par0(i);
+    step = h(i) * par0(i);
     par0(i) = par0(i) + step; %меняем параметр
 
     out = Function();
